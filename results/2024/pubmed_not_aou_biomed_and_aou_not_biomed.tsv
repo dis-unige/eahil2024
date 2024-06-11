@@ -1,0 +1,374 @@
+	ID_AOU	DATE_AOU	BIOMED_AOU	DISCIPLINE_CLINICAL_AOU	DISCIPLINE_BASIC_AOU	DISCIPLINE_BIOLOGY_AOU	DISCIPLINE_PHARMA_AOU	DISCIPLINE_AFFECTIVE_AOU	DISCIPLINE_DENTISTRY_AOU	DISCIPLINE_MEDICINE_GENERAL_AOU	DISCIPLINE_NEUROSCIENCES_AOU	DATA_AOU	DATA_TYPE_APPENDIXES_AOU	DATA_TYPE_DATA_SUPPLEMENTS_AOU	DATA_TYPE_SHARED_DATA_AOU	FUNDER_AOU	FNS_FUNDER_AOU	EU_FUNDER_AOU	DOC_TYPE_AOU	DOI	PMID	AOU	PUBMED	DATA_PUBMED	OPENALEX	ID_OPENALEX	IS_OA_OPENALEX	OA_STATUS_OPENALEX	DATE_OPENALEX	DATE_PUBMED	DATE	OA	id	BIOMED	date	pmid	773t	COUNT
+0																					25037924	0	1	1.0	0					2015.0	2015.0	0	unige:39574	0	2015	25037924.0	Cerebral cortex	1
+1																					26505722	0	1	0.0	0					2015.0	2015.0	0	unige:90058	0	2015	26505722.0	Plastic and reconstructive surgery	1
+2																					27541954	0	1	1.0	0					2017.0	2017.0	0	unige:89981	0	2016	27541954.0	Journal of clinical monitoring and computing	1
+3																					27715109	0	1	1.0	0					2016.0	2016.0	0	unige:150143	0	2016	27715109.0	Physical Review Letters	1
+4																					28333232	0	1	1.0	0					2017.0	2017.0	0	unige:99803	0	2017	28333232.0	Journal of Antimicrobial Chemotherapy	1
+5																					28674834	0	1	1.0	0					2017.0	2017.0	0	unige:99150	0	2017	28674834.0	Graefe's Archive for Clinical and Experimental Ophthalmology	1
+6																					28686361	0	1	0.0	0					2016.0	2016.0	0	unige:115719	0	2016	28686361.0	Revue médicale suisse	1
+7																					29549222	0	1	1.0	0					2018.0	2018.0	0	unige:155176	0	2018	29549222.0	Neurology	1
+8																					29976182	0	1	1.0	0					2018.0	2018.0	0	unige:107796	0	2018	29976182.0	BMC Women's Health	1
+9																					30003207	0	1	1.0	0					2019.0	2019.0	0	unige:113449	0	2019	30003207.0	Natural Product Reports	1
+10																					31724114	0	1	0.0	0					2020.0	2020.0	0	unige:163364	0	2020	31724114.0	The international journal of cardiovascular imaging	1
+11																					31766870	0	1	1.0	0					2020.0	2020.0	0	unige:163363	0	2020	31766870.0	Arteriosclerosis, thrombosis, and vascular biology	1
+12																					32383902	0	1	0.0	0					2020.0	2020.0	0	unige:164161	0	2020	32383902.0	Physical review letters	1
+13																					32439901	0	1	0.0	0					2020.0	2020.0	0	unige:139626	0	2020	32439901.0	Nature Communications	1
+14																					33709764	0	1	1.0	0					2021.0	2021.0	0	unige:155086	0	2021	33709764.0	Physical review letters	1
+15																					34790861	0	1	0.0	0					2022.0	2022.0	0	unige:156955	0	2022	34790861.0	Sustainable water resources management	1
+16																					35590613	0	1	0.0	0					2022.0	2022.0	0	unige:166541	0	2022	35590613.0	Physical review. E	1
+17																					35749176	0	1	0.0	0					2022.0	2022.0	0	unige:168439	0	2022	35749176.0	Physical review letters	1
+18																					35864119	0	1	0.0	0					2022.0	2022.0	0	unige:163846	0	2022	35864119.0	Nature communications	1
+19																					36060121	0	1	0.0	0					2022.0	2022.0	0	unige:163469	0	2022	36060121.0	Frontiers in toxicology	1
+20																					36083651	0	1	0.0	0					2022.0	2022.0	0	unige:165562	0	2022	36083651.0	Physical review letters	1
+21																					36360802	0	1	0.0	0					2022.0	2022.0	0	unige:165425	0	2022	36360802.0	International journal of environmental research and public health	1
+22																					36456591	0	1	0.0	0					2022.0	2022.0	0	unige:169713	0	2022	36456591.0	Scientific reports	1
+23																					36546223	0	1	0.0	0					2022.0	2022.0	0	unige:167001	0	2022	36546223.0	Science Bulletin	1
+24																					25607653	0	1	0.0	1	W3102311425	True	green	2015.0	2015.0	2015.0	1	unige:156138	0	2015	25607653.0	Nano letters	1
+25																					25683678	0	1	0.0	1	W1987019802	True	bronze	2015.0	2015.0	2015.0	1	unige:74121	0	2015	25683678.0	Sociology of health & illness	1
+26																					25732058	0	1	1.0	1	W1965031958	True	gold	2015.0	2015.0	2015.0	1	unige:156143	0	2015	25732058.0	Nature communications	1
+27																					25735880	0	1	0.0	1	W2098073034	True	green	2015.0	2015.0	2015.0	1	unige:156135	0	2015	25735880.0	Advanced materials	1
+28																					25832244	0	1	0.0	1	W2088115285	True	green	2015.0	2015.0	2015.0	1	unige:158108	0	2015	25832244.0	Review of scientific instruments	1
+29																					25863469	0	1	0.0	1	W1979581792	False	closed	2015.0	2015.0	2015.0	0	unige:89197	0	2015	25863469.0	Cortex	1
+30																					26026198	0	1	0.0	1	W2007347955	False	closed	2015.0	2015.0	2015.0	0	unige:90460	0	2015	26026198.0	Midwifery	1
+31																					26121591	0	1	1.0	1	W785543088	True	gold	2015.0	2015.0	2015.0	1	unige:79643	0	2015	26121591.0	PloS one	1
+32																					26183812	0	1	0.0	1	W1919502846	False	closed	2015.0	2015.0	2015.0	0	unige:167736	0	2015	26183812.0	Journal of homosexuality	1
+33																					26247788	0	1	1.0	1	W1904366742	True	gold	2015.0	2015.0	2015.0	1	unige:77333	0	2015	26247788.0	PloS one	1
+34																					26386322	0	1	0.0	1	W2292224346	False	closed	2015.0	2015.0	2015.0	0	unige:81916	0	2015	26386322.0	Neuropsychologia	1
+35																					26391068	0	1	1.0	1	W1953096683	True	gold	2015.0	2015.0	2015.0	1	unige:156127	0	2015	26391068.0	Nature communications	1
+36																					26459124	0	1	0.0	1	W2297423710	True	green	2015.0	2015.0	2015.0	1	unige:168179	0	2015	26459124.0	The Spanish journal of psychology	1
+37																					26537854	0	1	0.0	1	W2161124189	False	closed	2015.0	2015.0	2015.0	0	unige:78906	0	2015	26537854.0	Chemistry	1
+38																					26583003	0	1	1.0	1	W1830556846	True	gold	2015.0	2015.0	2015.0	1	unige:81898	0	2015	26583003.0	Frontiers in psychology	1
+39																					26584866	0	1	1.0	1	W2221276418	True	green	2016.0	2016.0	2016.0	1	unige:86175	0	2015	26584866.0	NeuroImage	1
+40																					26656509	0	1	1.0	1	W2264949414	False	closed	2015.0	2015.0	2015.0	0	unige:90757	0	2015	26656509.0	European neurology	1
+41																					26751171	0	1	1.0	1	W2192430962	True	green	2016.0	2016.0	2016.0	1	unige:156118	0	2016	26751171.0	Nature nanotechnology	1
+42																					26778999	0	1	1.0	1	W2189069386	True	gold	2016.0	2016.0	2016.0	1	unige:81899	0	2015	26778999.0	Frontiers in human neuroscience	1
+43																					26834690	0	1	1.0	1	W2253368180	True	gold	2016.0	2016.0	2016.0	1	unige:95009	0	2016	26834690.0	Frontiers in psychology	1
+44																					27048760	0	1	1.0	1	W2324749785	True	gold	2016.0	2016.0	2016.0	1	unige:158110	0	2016	27048760.0	Nature communications	1
+45																					27062426	0	1	1.0	1	W2318637623	True	green	2016.0	2017.0	2017.0	1	unige:101853	0	2017	27062426.0	Family Process	1
+46																					27334987	0	1	1.0	1	W2468199083	False	closed	2016.0	2017.0	2017.0	0	unige:94895	0	2017	27334987.0	Brain topography	1
+47																					27510939	0	1	1.0	1	W2509057999	True	gold	2016.0	2016.0	2016.0	1	unige:86009	0	2016	27510939.0	Scientific reports	1
+48																					27568328	0	1	1.0	1	W2509500838	False	closed	2016.0	2016.0	2016.0	0	unige:157799	0	2016	27568328.0	Biological psychology	1
+49																					27725665	0	1	1.0	1	W2483173506	True	gold	2016.0	2016.0	2016.0	1	unige:96174	0	2016	27725665.0	Nature communications	1
+50																					27804954	0	1	1.0	1	W2276351143	True	gold	2016.0	2016.0	2016.0	1	unige:96175	0	2016	27804954.0	Nature communications	1
+51																					27824454	0	1	1.0	1	W2536222176	True	green	2016.0	2016.0	2016.0	1	unige:155995	0	2016	27824454.0	Physical review letters	1
+52																					27882917	0	1	1.0	1	W2553654821	True	gold	2016.0	2016.0	2016.0	1	unige:96177	0	2016	27882917.0	Nature communications	1
+53																					27992586	0	1	1.0	1	W2561659598	True	gold	2016.0	2016.0	2016.0	1	unige:94877	0	2016	27992586.0	PloS one	1
+54																					28008650	0	1	1.0	1	W2564064967	False	closed	2017.0	2017.0	2017.0	0	unige:99153	0	2017	28008650.0	Clinical Transplantation	1
+55																					28043163	0	1	1.0	1	W2561105436	False	closed	2017.0	2017.0	2017.0	0	unige:103501	0	2017	28043163.0	Psychology and Health	1
+56																					28128616	0	1	1.0	1	W2563550415	True	hybrid	2017.0	2017.0	2017.0	1	unige:159379	0	2017	28128616.0	Physical review letters	1
+57																					28266509	0	1	1.0	1	W2591578646	True	gold	2017.0	2017.0	2017.0	1	unige:157704	0	2017	28266509.0	Nature communications	1
+58																					28294266	0	1	1.0	1	W2594116764	False	closed	2017.0	2017.0	2017.0	0	unige:93533	0	2017	28294266.0	PCCP. Physical chemistry chemical physics	1
+59																					28334293	0	1	1.0	1	W2688701525	True	bronze	2017.0	2018.0	2018.0	1	unige:173288	0	2018	28334293.0	Cerebral cortex	1
+60																					28346063	0	1	1.0	1	W2599334269	False	closed	2017.0	2017.0	2017.0	0	unige:93372	0	2017	28346063.0	Psychological science	1
+61																					28391022	0	1	1.0	1	W2604833250	False	closed	2017.0	2017.0	2017.0	0	unige:112456	0	2017	28391022.0	World Neurosurgery	1
+62																					28434375	0	1	1.0	1	W2609919755	False	closed	2017.0	2017.0	2017.0	0	unige:95062	0	2017	28434375.0	Expert review of clinical pharmacology	1
+63																					28472307	0	1	1.0	1	W2610961035	True	bronze	2017.0	2017.0	2017.0	1	unige:99801	0	2017	28472307.0	Journal of Antimicrobial Chemotherapy	1
+64																					28585280	0	1	1.0	1	W2623620107	False	closed	2017.0	2017.0	2017.0	0	unige:95064	0	2017	28585280.0	Research synthesis methods	1
+65																					28696733	0	1	1.0	1	W2605937803	True	hybrid	2017.0	2017.0	2017.0	1	unige:156000	0	2017	28696733.0	Physical review letters	1
+66																					28822921	0	1	1.0	1	W2742350063	True	hybrid	2017.0	2017.0	2017.0	1	unige:103502	0	2017	28822921.0	Archives of Gerontology and Geriatrics	1
+67																					28949564	0	1	1.0	1	W2579434943	True	hybrid	2017.0	2017.0	2017.0	1	unige:158130	0	2017	28949564.0	Physical review letters	1
+68																					29054536	0	1	1.0	1	W2766694562	True	hybrid	2017.0	2017.0	2017.0	1	unige:104878	0	2017	29054536.0	Experimental Gerontology	1
+69																					29058917	0	1	1.0	1	W2766365304	True	green	2017.0	2017.0	2017.0	1	unige:155999	0	2017	29058917.0	Nano letters	1
+70																					29101054	0	1	1.0	1	W2766494800	False	closed	2018.0	2018.0	2018.0	0	unige:141547	0	2018	29101054.0	Journal of Controlled Release	1
+71																					29193301	0	1	1.0	1	W2769928307	False	closed	2018.0	2018.0	2018.0	0	unige:104602	0	2018	29193301.0	Acta Paediatrica	1
+72																					29236555	0	1	1.0	1	W2775644976	False	closed	2017.0	2019.0	2019.0	0	unige:168181	0	2017	29236555.0	Journal of personality assessment	1
+73																					29295175	0	1	0.0	1	W2611703522	False	closed	2017.0	2017.0	2017.0	0	unige:93901	0	2017	29295175.0	Studies in health technology and informatics	1
+74																					29308981	0	1	1.0	1	W2782993791	True	green	2019.0	2019.0	2019.0	1	unige:109647	0	2018	29308981.0	Journal of Cognitive Neuroscience	1
+75																					29363832	0	1	1.0	1	W2790175756	True	green	2018.0	2018.0	2018.0	1	unige:107542	0	2018	29363832.0	European Journal of Neuroscience	1
+76																					29593370	0	1	1.0	1	W2724710417	True	hybrid	2017.0	2018.0	2018.0	1	unige:104837	0	2018	29593370.0	Journal of Family Issues	1
+77																					29692716	0	1	1.0	1	W2796609287	True	gold	2018.0	2018.0	2018.0	1	unige:155478	0	2018	29692716.0	Frontiers in human neuroscience	1
+78																					29709618	0	1	1.0	1	W2800496882	True	hybrid	2018.0	2018.0	2018.0	1	unige:109648	0	2018	29709618.0	Vision Research	1
+79																					29713077	0	1	1.0	1	W3099178482	True	green	2018.0	2018.0	2018.0	1	unige:155992	0	2018	29713077.0	Nature nanotechnology	1
+80																					29744894	0	1	1.0	1	W2819887419	True	green	2018.0	2018.0	2018.0	1	unige:158778	0	2018	29744894.0	Annals of the New York Academy of Sciences	1
+81																					29860156	0	1	1.0	1	W2807086185	False	closed	2018.0	2018.0	2018.0	0	unige:106683	0	2018	29860156.0	Infant Behavior and Development	1
+82																					29870263	0	1	1.0	1	W2807539801	True	green	2018.0	2018.0	2018.0	1	unige:155988	0	2018	29870263.0	Nano letters	1
+83																					29920981	0	1	1.0	1	W2809224883	True	gold	2018.0	2018.0	2018.0	1	unige:109877	0	2018	29920981.0	Brain and Behavior	1
+84																					30273002	0	1	0.0	1	W2895766291	True	green	2019.0	2019.0	2019.0	1	unige:116357	0	2019	30273002.0	Games for Health Journal	1
+85																					30479979	0	1	0.0	1	W2902589912	True	gold	2018.0	2018.0	2018.0	1	unige:165661	0	2018	30479979.0	Health promotion perspectives	1
+86																					30560762	0	1	0.0	1	W2904221231	True	bronze	2018.0	2019.0	2019.0	1	unige:169405	0	2018	30560762.0	Journal of child language	1
+87																					30770199	0	1	0.0	1	W2913039063	True	green	2019.0	2019.0	2019.0	1	unige:121466	0	2019	30770199.0	Physics of Life Reviews	1
+88																					30840536	0	1	0.0	1	W2922141931	True	bronze	2019.0	2019.0	2019.0	1	unige:161296	0	2019	30840536.0	Journal of neurophysiology	1
+89																					30904103	0	1	0.0	1	W2923307408	True	gold	2019.0	2019.0	2019.0	1	unige:125964	0	2019	30904103.0	The Lancet. Planetary health	1
+90																					31023463	0	1	0.0	1	W2941160380	False	closed	2019.0	2019.0	2019.0	0	unige:145538	0	2019	31023463.0	Soins	1
+91																					31065072	0	1	0.0	1	W3098634202	True	green	2019.0	2019.0	2019.0	1	unige:155989	0	2019	31065072.0	Nature nanotechnology	1
+92																					31285622	0	1	0.0	1	W2956329843	True	green	2019.0	2019.0	2019.0	1	unige:142068	0	2019	31285622.0	Nature Human Behaviour	1
+93																					31340726	0	1	0.0	1	W2963123890	True	green	2019.0	2020.0	2020.0	1	unige:161300	0	2019	31340726.0	Laterality	1
+94																					31543358	0	1	1.0	1	W2973491606	True	green	2021.0	2021.0	2021.0	1	unige:163185	0	2021	31543358.0	Journal of voice	1
+95																					31551876	0	1	0.0	1	W2969752977	True	gold	2019.0	2019.0	2019.0	1	unige:141910	0	2019	31551876.0	Frontiers in Psychology	1
+96																					31561147	0	1	0.0	1	W2974995300	True	green	2019.0	2019.0	2019.0	1	unige:168452	0	2019	31561147.0	Infant behavior & development	1
+97																					31591517	0	1	0.0	1	W2978612598	True	bronze	2019.0	2020.0	2020.0	1	unige:176630	0	2019	31591517.0	European journal of human genetics	1
+98																					31621805	0	1	0.0	1	W2981265214	True	gold	2019.0	2019.0	2019.0	1	unige:161297	0	2019	31621805.0	Journal of vision	1
+99																					31712666	0	1	0.0	1	W3098503475	True	green	2019.0	2019.0	2019.0	1	unige:155987	0	2019	31712666.0	Nature nanotechnology	1
+100																					31787120	0	1	0.0	1	W2992064069	True	green	2019.0	2019.0	2019.0	1	unige:167738	0	2019	31787120.0	The Spanish journal of psychology	1
+101																					31801103	0	1	0.0	1	W2984414552	False	closed	2020.0	2020.0	2020.0	0	unige:167977	0	2020	31801103.0	Addictive behaviors	1
+102																					31814436	0	1	0.0	1	W2994185955	True	green	2019.0	2021.0	2021.0	1	unige:135210	0	2021	31814436.0	Aging & Mental Health	1
+103																					31865930	0	1	0.0	1	W2996175043	True	green	2019.0	2021.0	2021.0	1	unige:135211	0	2021	31865930.0	International Psychogeriatrics	1
+104																					31881721	0	1	0.0	1	W2997385044	True	gold	2019.0	2019.0	2019.0	1	unige:158542	0	2019	31881721.0	Healthcare	1
+105																					32007989	0	1	0.0	1	W3004269351	True	green	2019.0	2019.0	2019.0	1	unige:145275	0	2019	32007989.0	Dementia and Geriatric Cognitive Disorders	1
+106																					32066509	0	1	0.0	1	W3007609394	False	closed	2020.0	2020.0	2020.0	0	unige:169552	0	2020	32066509.0	Journal of child language	1
+107																					32096101	0	1	0.0	1	W3007836967	True	bronze	2020.0	2020.0	2020.0	1	unige:160708	0	2020	32096101.0	Attention, perception & psychophysics	1
+108																					32142288	0	1	0.0	1	W3010429218	True	green	2020.0	2020.0	2020.0	1	unige:157261	0	2020	32142288.0	Nano letters	1
+109																					32251309	0	1	0.0	1	W3012651437	True	gold	2020.0	2020.0	2020.0	1	unige:175370	0	2020	32251309.0	Scientific reports	1
+110																					32376300	0	1	0.0	1	W3023972282	True	gold	2020.0	2020.0	2020.0	1	unige:155480	0	2020	32376300.0	NeuroImage	1
+111																					32421421	0	1	0.0	1	W3026944614	True	green	2020.0	2020.0	2020.0	1	unige:165486	0	2020	32421421.0	Journal of speech, language, and hearing research	1
+112																					32570689	0	1	0.0	1	W3035837603	False	closed	2020.0	2020.0	2020.0	0	unige:139233	0	2020	32570689.0	Digital Personalized Health and Medicine	1
+113																					32589061	0	1	0.0	1	W3037157732	True	green	2020.0	2020.0	2020.0	1	unige:150536	0	2020	32589061.0	Bioanalysis	1
+114																					32637835	0	1	0.0	1	W3036389018	True	gold	2020.0	2020.0	2020.0	1	unige:157066	0	2020	32637835.0	ACS omega	1
+115																					32665430	0	1	0.0	1	W3043779891	True	gold	2020.0	2020.0	2020.0	1	unige:155949	0	2020	32665430.0	BMJ global health	1
+116																					32716359	0	1	0.0	1	W3044584083	True	green	2020.0	2020.0	2020.0	1	unige:163533	0	2020	32716359.0	Journal of Alzheimer's disease	1
+117																					32757589	0	1	0.0	1	W3047838797	True	green	2020.0	2020.0	2020.0	1	unige:149366	0	2020	32757589.0	Journal of Experimental Psychology: Human Perception and Performance	1
+118																					32763876	0	1	0.0	1	W3024272585	True	gold	2020.0	2020.0	2020.0	1	unige:142485	0	2020	32763876.0	JMIR mHealth and uHealth	1
+119																					32774130	0	1	0.0	1	W2949041551	True	bronze	2019.0	2020.0	2020.0	1	unige:165481	0	2019	32774130.0	Bilingualism	1
+120																					32778815	0	1	0.0	1	W3047699737	True	green	2020.0	2020.0	2020.0	1	unige:157369	0	2020	32778815.0	Nature materials	1
+121																					32881477	0	1	0.0	1	W3083231724	True	hybrid	2020.0	2020.0	2020.0	1	unige:147179	0	2020	32881477.0	ACS Sensors	1
+122																					32895063	0	1	0.0	1	W3084336432	False	closed	2020.0	2020.0	2020.0	0	unige:168177	0	2020	32895063.0	The Spanish journal of psychology	1
+123																					32940460	0	1	0.0	1	W3087311517	True	green	2020.0	2020.0	2020.0	1	unige:147180	0	2020	32940460.0	Analytical Chemistry	1
+124																					33017652	0	1	1.0	1	W3088341727	True	gold	2021.0	2021.0	2021.0	1	unige:162856	0	2021	33017652.0	NeuroImage	1
+125																					33088903	0	1	0.0	1	W3089496939	True	hybrid	2020.0	2020.0	2020.0	1	unige:158545	0	2020	33088903.0	Quality and user experience	1
+126																					33142665	0	1	0.0	1	W3096406539	True	gold	2020.0	2020.0	2020.0	1	unige:158546	0	2020	33142665.0	Journal of personalized medicine	1
+127																					33194954	0	1	0.0	1	W3093722966	True	gold	2020.0	2020.0	2020.0	1	unige:157284	0	2020	33194954.0	Frontiers in public health	1
+128																					33221662	0	1	1.0	1	W3105306192	True	green	2021.0	2021.0	2021.0	1	unige:165489	0	2021	33221662.0	Journal of experimental child psychology	1
+129																					33236064	0	1	1.0	1	W3093376247	True	hybrid	2020.0	2021.0	2021.0	1	unige:162847	0	2021	33236064.0	Cerebral cortex	1
+130																					33265628	0	1	0.0	1	W2883447470	True	gold	2018.0	2018.0	2018.0	1	unige:165221	0	2018	33265628.0	Entropy	1
+131																					33291020	0	1	1.0	1	W3108971739	True	hybrid	2021.0	2021.0	2021.0	1	unige:156980	0	2021	33291020.0	Early human development	1
+132																					33449733	0	1	0.0	1	W3116393984	True	green	2020.0	2020.0	2020.0	1	unige:165818	0	2020	33449733.0	Physical review letters	1
+133																					33543943	0	1	1.0	1	W3123018470	True	green	2021.0	2021.0	2021.0	1	unige:158072	0	2021	33543943.0	Physical review letters	1
+134																					33543969	0	1	1.0	1	W3037405178	True	green	2021.0	2021.0	2021.0	1	unige:158064	0	2021	33543969.0	Physical review letters	1
+135																					33570806	0	1	1.0	1	W3126485158	True	green	2021.0	2021.0	2021.0	1	unige:150831	0	2021	33570806.0	Developmental Science	1
+136																					33577985	0	1	1.0	1	W3128098604	True	hybrid	2021.0	2021.0	2021.0	1	unige:150537	0	2021	33577985.0	Journal of Clinical Epidemiology	1
+137																					33599131	0	1	1.0	1	W3132585127	True	green	2021.0	2021.0	2021.0	1	unige:159070	0	2021	33599131.0	ACS sensors	1
+138																					33607016	0	1	1.0	1	W3130938027	True	gold	2021.0	2021.0	2021.0	1	unige:176255	0	2021	33607016.0	The Lancet. Global health	1
+139																					33619251	0	1	1.0	1	W3129873043	True	gold	2021.0	2021.0	2021.0	1	unige:166972	0	2021	33619251.0	Nature communications	1
+140																					33621055	0	1	1.0	1	W3130477552	False	closed	2021.0	2021.0	2021.0	0	unige:175355	0	2021	33621055.0	Analytical chemistry	1
+141																					33733298	0	1	1.0	1	W3138952452	True	hybrid	2021.0	2021.0	2021.0	1	unige:161294	0	2021	33733298.0	Psychonomic bulletin & review	1
+142																					33765431	0	1	1.0	1	W3131651061	True	hybrid	2021.0	2021.0	2021.0	1	unige:157440	0	2021	33765431.0	Neurobiology of Aging	1
+143																					33837599	0	1	1.0	1	W3146237631	True	hybrid	2021.0	2021.0	2021.0	1	unige:153284	0	2021	33837599.0	Global Change Biology	1
+144																					33843464	0	1	1.0	1	W3155438597	True	gold	2021.0	2021.0	2021.0	1	unige:174953	0	2021	33843464.0	Virulence	1
+145																					33891812	0	1	1.0	1	W3152674892	True	green	2021.0	2021.0	2021.0	1	unige:156212	0	2021	33891812.0	Analytical chemistry	1
+146																					33894244	0	1	1.0	1	W3153260836	True	hybrid	2021.0	2021.0	2021.0	1	unige:165487	0	2021	33894244.0	Neuropsychologia	1
+147																					33903255	0	1	1.0	1	W3136981109	True	hybrid	2021.0	2021.0	2021.0	1	unige:162857	0	2021	33903255.0	Proceedings of the National Academy of Sciences of the United States of America	1
+148																					33925513	0	1	1.0	1	W3157274496	True	gold	2021.0	2021.0	2021.0	1	unige:157164	0	2021	33925513.0	International journal of environmental research and public health	1
+149																					33962623	0	1	1.0	1	W3157135845	True	gold	2021.0	2021.0	2021.0	1	unige:176254	0	2021	33962623.0	Conflict and health	1
+150																					33977185	0	1	1.0	1	W3155075492	True	gold	2021.0	2021.0	2021.0	1	unige:155484	0	2021	33977185.0	Pain reports	1
+151																					34046556	0	1	1.0	1	W3144386390	True	green	2021.0	2021.0	2021.0	1	unige:157886	0	2021	34046556.0	Nanoscale advances	1
+152																					34060844	0	1	0.0	1	W3165014219	False	closed	2021.0	2021.0	2021.0	0	unige:157705	0	2021	34060844.0	Nano letters	1
+153																					34086786	0	1	0.0	1	W3164601973	True	gold	2021.0	2021.0	2021.0	1	unige:155052	0	2021	34086786.0	PloS one	1
+154																					34112980	0	1	0.0	1	W3160357885	True	green	2021.0	2021.0	2021.0	1	unige:166135	0	2021	34112980.0	Nature human behaviour	1
+155																					34113585	0	1	0.0	1	W3164601918	True	gold	2021.0	2021.0	2021.0	1	unige:157162	0	2021	34113585.0	Frontiers in pediatrics	1
+156																					34118619	0	1	0.0	1	W3167814896	True	hybrid	2021.0	2021.0	2021.0	1	unige:158798	0	2021	34118619.0	Chemosphere	1
+157																					34118653	0	1	0.0	1	W3172297526	True	green	2021.0	2021.0	2021.0	1	unige:156276	0	2021	34118653.0	Infant behavior & development	1
+158																					34121422	0	1	0.0	1	W3169123844	True	green	2021.0	2021.0	2021.0	1	unige:169408	0	2021	34121422.0	Journal of speech, language, and hearing research	1
+159																					34124870	0	1	0.0	1	W3169015770	True	gold	2021.0	2022.0	2022.0	1	unige:155951	0	2021	34124870.0	International journal of health policy and management	1
+160																					34125469	0	1	0.0	1	W3168007982	True	green	2021.0	2021.0	2021.0	1	unige:156643	0	2021	34125469.0	Angewandte Chemie (International Edition)	1
+161																					34132127	0	1	0.0	1	W3165925018	True	hybrid	2021.0	2022.0	2022.0	1	unige:156854	0	2021	34132127.0	Journal of intellectual disabilities	1
+162																					34152188	0	1	0.0	1	W3038866420	True	green	2021.0	2021.0	2021.0	1	unige:158737	0	2021	34152188.0	Physical review letters	1
+163																					34201523	0	1	0.0	1	W3173310082	True	gold	2021.0	2021.0	2021.0	1	unige:157160	0	2021	34201523.0	Brain sciences	1
+164																					34238085	0	1	0.0	1	W3178535587	True	hybrid	2021.0	2021.0	2021.0	1	unige:159955	0	2021	34238085.0	The quarterly journal of experimental psychology	1
+165																					34254262	0	1	0.0	1	W3179580132	True	green	2021.0	2022.0	2022.0	1	unige:158548	0	2021	34254262.0	Quality of life research	1
+166																					34301677	0	1	0.0	1	W3186602906	True	gold	2021.0	2021.0	2021.0	1	unige:155952	0	2021	34301677.0	BMJ global health	1
+167																					34335309	0	1	0.0	1	W3184716592	True	gold	2021.0	2021.0	2021.0	1	unige:157159	0	2021	34335309.0	Frontiers in physiology	1
+168																					34346255	0	1	0.0	1	W3191496919	True	hybrid	2021.0	2022.0	2022.0	1	unige:156298	0	2021	34346255.0	Language and speech	1
+169																					34349915	0	1	0.0	1	W3169810312	True	gold	2021.0	2021.0	2021.0	1	unige:157887	0	2021	34349915.0	Chemical science	1
+170																					34353820	0	1	0.0	1	W3189933556	True	gold	2021.0	2021.0	2021.0	1	unige:155953	0	2021	34353820.0	BMJ global health	1
+171																					34354204	0	1	0.0	1	W3191387553	True	gold	2021.0	2021.0	2021.0	1	unige:157161	0	2021	34354204.0	Scientific reports	1
+172																					34355313	0	1	0.0	1	W3189841045	False	closed	2021.0	2022.0	2022.0	0	unige:166971	0	2021	34355313.0	Environmental science and pollution research international	1
+173																					34356567	0	1	0.0	1	W3182232178	True	gold	2021.0	2021.0	2021.0	1	unige:157158	0	2021	34356567.0	Children	1
+174																					34389172	0	1	0.0	1	W3182553486	True	hybrid	2021.0	2021.0	2021.0	1	unige:158547	0	2021	34389172.0	Advanced drug delivery reviews	1
+175																					34421759	0	1	0.0	1	W3189353284	True	gold	2021.0	2021.0	2021.0	1	unige:163195	0	2021	34421759.0	Frontiers in psychology	1
+176																					34434844	0	1	0.0	1	W3156219432	True	gold	2021.0	2021.0	2021.0	1	unige:165219	0	2021	34434844.0	MethodsX	1
+177																					34461331	0	1	0.0	1	W3193742961	True	hybrid	2022.0	2022.0	2022.0	1	unige:155084	0	2022	34461331.0	Chemosphere	1
+178																					34467389	0	1	0.0	1	W3175368678	True	hybrid	2021.0	2022.0	2022.0	1	unige:162854	0	2022	34467389.0	Cerebral cortex	1
+179																					34480970	0	1	0.0	1	W3196667264	True	hybrid	2021.0	2021.0	2021.0	1	unige:155050	0	2021	34480970.0	International journal of psychophysiology	1
+180																					34498852	0	1	0.0	1	W3197535484	True	green	2021.0	2021.0	2021.0	1	unige:156105	0	2021	34498852.0	Journal of the American Chemical Society	1
+181																					34505836	0	1	0.0	1	W3197800858	True	gold	2021.0	2021.0	2021.0	1	unige:158549	0	2021	34505836.0	JMIR	1
+182																					34519508	0	1	0.0	1	W3200520636	True	green	2021.0	2021.0	2021.0	1	unige:155082	0	2021	34519508.0	The journal of physical chemistry. B	1
+183																					34547308	0	1	0.0	1	W3199794390	True	hybrid	2021.0	2021.0	2021.0	1	unige:161293	0	2021	34547308.0	Neuropsychologia	1
+184																					34555677	0	1	0.0	1	W3197624226	True	hybrid	2021.0	2021.0	2021.0	1	unige:163550	0	2021	34555677.0	Neurobiology of aging	1
+185																					34560888	0	1	0.0	1	W3199401192	True	gold	2021.0	2021.0	2021.0	1	unige:156502	0	2021	34560888.0	International Journal for Equity in Health	1
+186																					34582164	0	1	0.0	1	W3204826563	False	closed	2021.0	2021.0	2021.0	0	unige:166395	0	2021	34582164.0	ACS sensors	1
+187																					34591446	0	1	0.0	1	W3203450726	True	green	2021.0	2021.0	2021.0	1	unige:156195	0	2021	34591446.0	Environmental science & technology	1
+188																					34592586	0	1	0.0	1	W3204484979	True	gold	2021.0	2021.0	2021.0	1	unige:166136	0	2021	34592586.0	Acta psychologica	1
+189																					34601875	0	1	0.0	1	W3203888268	True	green	2021.0	2021.0	2021.0	1	unige:155854	0	2021	34601875.0	Inorganic chemistry	1
+190																					34617914	0	1	0.0	1	W3203197436	True	gold	2021.0	2021.0	2021.0	1	unige:155491	0	2021	34617914.0	JMIR medical informatics	1
+191																					34619536	0	1	0.0	1	W3204642449	True	hybrid	2021.0	2021.0	2021.0	1	unige:164286	0	2021	34619536.0	Studies in history and philosophy of science	1
+192																					34654800	0	1	1.0	1	W3197270704	True	gold	2021.0	2021.0	2021.0	1	unige:155856	0	2021	34654800.0	Nature communications	1
+193																					34655300	0	1	0.0	1	W3205744762	True	bronze	2021.0	2021.0	2021.0	1	unige:155634	0	2021	34655300.0	Archives of environmental contamination and toxicology	1
+194																					34682050	0	1	0.0	1	W3205660793	True	gold	2021.0	2021.0	2021.0	1	unige:158739	0	2021	34682050.0	Entropy	1
+195																					34694848	0	1	0.0	1	W3209722977	True	green	2021.0	2021.0	2021.0	1	unige:161290	0	2021	34694848.0	Journal of experimental psychology. Human perception and performance.	1
+196																					34697237	0	1	0.0	1	W3208017124	True	hybrid	2021.0	2021.0	2021.0	1	unige:166977	0	2021	34697237.0	Proceedings of the National Academy of Sciences of the United States of America	1
+197																					34699342	0	1	0.0	1	W3210530730	True	green	2021.0	2022.0	2022.0	1	unige:161307	0	2021	34699342.0	Memory	1
+198																					34706534	0	1	0.0	1	W3209080981	False	closed	2021.0	2021.0	2021.0	0	unige:174064	0	2021	34706534.0	The journal of physical chemistry. B	1
+199																					34716367	0	1	0.0	1	W3209235516	True	gold	2021.0	2021.0	2021.0	1	unige:157163	0	2021	34716367.0	Scientific reports	1
+200																					34720182	0	1	0.0	1	W3083360355	True	hybrid	2021.0	2021.0	2021.0	1	unige:157251	0	2021	34720182.0	Journal of statistical physics	1
+201																					34720653	0	1	0.0	1	W3204111861	True	hybrid	2021.0	2021.0	2021.0	1	unige:160709	0	2021	34720653.0	Visual cognition	1
+202																					34734671	0	1	0.0	1	W3210884112	True	green	2021.0	2022.0	2022.0	1	unige:157673	0	2022	34734671.0	Angewandte Chemie	1
+203																					34739670	0	1	0.0	1	W3211264841	True	hybrid	2021.0	2022.0	2022.0	1	unige:156951	0	2021	34739670.0	Environmental science and pollution research international	1
+204																					34751753	0	1	0.0	1	W3193992588	True	hybrid	2021.0	2022.0	2022.0	1	unige:162853	0	2022	34751753.0	The journals of gerontology. Series B, Psychological sciences and social sciences	1
+205																					34786004	0	1	0.0	1	W3214606362	True	hybrid	2021.0	2021.0	2021.0	1	unige:166347	0	2021	34786004.0	European journal of population	1
+206																					34788306	0	1	0.0	1	W3163837537	True	gold	2021.0	2021.0	2021.0	1	unige:161310	0	2021	34788306.0	PloS one	1
+207																					34795253	0	1	0.0	1	W3212605889	True	gold	2021.0	2021.0	2021.0	1	unige:156939	0	2021	34795253.0	Nature communications	1
+208																					34802234	0	1	0.0	1	W3215253631	False	closed	2021.0	2021.0	2021.0	0	unige:164197	0	2021	34802234.0	Analytical chemistry	1
+209																					34836690	0	1	0.0	1	W3211551594	True	hybrid	2022.0	2022.0	2022.0	1	unige:159532	0	2022	34836690.0	Journal of hazardous materials	1
+210																					34856254	0	1	0.0	1	W3217631907	True	hybrid	2022.0	2022.0	2022.0	1	unige:162907	0	2022	34856254.0	Science of the total environment	1
+211																					34862292	0	1	0.0	1	W3217382286	True	gold	2021.0	2021.0	2021.0	1	unige:158550	0	2021	34862292.0	BMJ open	1
+212																					34864900	0	1	0.0	1	W4200337094	True	green	2021.0	2021.0	2021.0	1	unige:160689	0	2022	34864900.0	Journal of deaf studies and deaf education	1
+213																					34870013	0	1	0.0	1	W3214522337	True	green	2021.0	2021.0	2021.0	1	unige:157076	0	2021	34870013.0	ACS omega	1
+214																					34873299	0	1	0.0	1	W4200264885	False	closed	2021.0	2022.0	2022.0	0	unige:158789	0	2022	34873299.0	Nature chemistry	1
+215																					34898686	0	1	0.0	1	W3174538211	True	hybrid	2021.0	2022.0	2022.0	1	unige:166223	0	2022	34898686.0	Comparative political studies	1
+216																					34904984	0	1	0.0	1	W3215764814	True	hybrid	2022.0	2021.0	2021.0	1	unige:157670	0	2022	34904984.0	Physical chemistry chemical physics	1
+217																					34905468	0	1	1.0	1	W4200553683	False	closed	2021.0	2022.0	2022.0	0	unige:166130	0	2021	34905468.0	Cognition and emotion	1
+218																					34912122	0	1	0.0	1	W4200337324	True	hybrid	2021.0	2021.0	2021.0	1	unige:158741	0	2021	34912122.0	Nature	1
+219																					34915094	0	1	0.0	1	W4200091496	True	hybrid	2022.0	2022.0	2022.0	1	unige:157450	0	2022	34915094.0	Environmental pollution	1
+220																					34918268	0	1	0.0	1	W4200042876	True	bronze	2021.0	2022.0	2022.0	1	unige:161292	0	2021	34918268.0	Psychonomic bulletin & review	1
+221																					34921081	0	1	0.0	1	W4200188508	True	gold	2021.0	2021.0	2021.0	1	unige:158601	0	2021	34921081.0	BMJ open	1
+222																					34922159	0	1	0.0	1	W4200169499	True	hybrid	2022.0	2022.0	2022.0	1	unige:158817	0	2022	34922159.0	Cognition	1
+223																					34927409	0	1	0.0	1	W4200052596	False	closed	2021.0	2021.0	2021.0	0	unige:157883	0	2021	34927409.0	ACS applied materials & interfaces	1
+224																					34936943	0	1	0.0	1	W4200490476	True	hybrid	2022.0	2022.0	2022.0	1	unige:157695	0	2022	34936943.0	Current opinion in chemical biology	1
+225																					34943246	0	1	0.0	1	W4200472455	True	gold	2021.0	2021.0	2021.0	1	unige:158780	0	2021	34943246.0	Biology	1
+226																					34955703	0	1	0.0	1	W4200464022	True	gold	2021.0	2021.0	2021.0	1	unige:167427	0	2021	34955703.0	Swiss journal of geosciences	1
+227																					34959113	0	1	0.0	1	W4200012301	True	hybrid	2022.0	2022.0	2022.0	1	unige:169363	0	2022	34959113.0	Computers in biology and medicine	1
+228																					34963407	0	1	0.0	1	W4200147808	True	green	2021.0	2023.0	2023.0	1	unige:160771	0	2021	34963407.0	Clinical linguistics & phonetics	1
+229																					34963580	0	1	0.0	1	W4200224764	True	hybrid	2022.0	2022.0	2022.0	1	unige:157885	0	2022	34963580.0	Science of the Total Environment	1
+230																					34968435	0	1	0.0	1	W4207076854	True	green	2022.0	2022.0	2022.0	1	unige:159068	0	2022	34968435.0	Environmental research	1
+231																					34973724	0	1	0.0	1	W3212828001	False	closed	2022.0	2022.0	2022.0	0	unige:157882	0	2022	34973724.0	Carbohydrate polymers	1
+232																					34978828	0	1	0.0	1	W4205590162	False	closed	2022.0	2022.0	2022.0	0	unige:158247	0	2022	34978828.0	Organic letters	1
+233																					35023571	0	1	0.0	1	W4205563529	True	hybrid	2022.0	2022.0	2022.0	1	unige:160355	0	2022	35023571.0	Biopolymers	1
+234																					35026744	0	1	0.0	1	W4205374859	True	green	2022.0	2022.0	2022.0	1	unige:164088	0	2022	35026744.0	Physics in medicine and biology	1
+235																					35039655	0	1	0.0	1	W4205309512	False	closed	2022.0	2022.0	2022.0	0	unige:161311	0	2022	35039655.0	Nature human behaviour	1
+236																					35040214	0	1	0.0	1	W4205471096	True	hybrid	2022.0	2022.0	2022.0	1	unige:159531	0	2022	35040214.0	Chemistry	1
+237																					35040500	0	1	0.0	1	W4206253987	True	green	2022.0	2022.0	2022.0	1	unige:158293	0	2022	35040500.0	Bioethics	1
+238																					35051834	0	1	0.0	1	W4206630280	True	hybrid	2022.0	2022.0	2022.0	1	unige:167629	0	2022	35051834.0	Infant behavior & development	1
+239																					35058663	0	1	0.0	1	W3097692516	True	hybrid	2021.0	2021.0	2021.0	1	unige:158742	0	2021	35058663.0	Synthese	1
+240																					35061443	0	1	0.0	1	W4206932345	True	hybrid	2021.0	2021.0	2021.0	1	unige:160311	0	2021	35061443.0	Physical review letters	1
+241																					35061469	0	1	0.0	1	W4205862811	True	green	2022.0	2022.0	2022.0	1	unige:158743	0	2022	35061469.0	Physical review letters	1
+242																					35064954	0	1	0.0	1	W4206903292	True	green	2022.0	2022.0	2022.0	1	unige:159298	0	2022	35064954.0	Advanced materials	1
+243																					35067044	0	1	0.0	1	W4206980349	True	hybrid	2022.0	2022.0	2022.0	1	unige:159067	0	2022	35067044.0	Accounts of chemical research	1
+244																					35077174	0	1	0.0	1	W4207072404	False	closed	2022.0	2022.0	2022.0	0	unige:158624	0	2022	35077174.0	The journal of physical chemistry	1
+245																					35092430	0	1	0.0	1	W4210433111	True	hybrid	2022.0	2022.0	2022.0	1	unige:161351	0	2022	35092430.0	Nephrology, dialysis, transplantation	1
+246																					35096747	0	1	0.0	1	W4210569901	True	gold	2022.0	2022.0	2022.0	1	unige:165405	0	2022	35096747.0	Frontiers in public health	1
+247																					35101022	0	1	0.0	1	W4210257582	True	gold	2022.0	2022.0	2022.0	1	unige:165422	0	2022	35101022.0	BMC public health	1
+248																					35113598	0	1	0.0	1	W4210752736	True	green	2021.0	2021.0	2021.0	1	unige:163193	0	2021	35113598.0	American Psychologist	1
+249																					35122922	0	1	0.0	1	W4210779386	True	green	2022.0	2022.0	2022.0	1	unige:158745	0	2022	35122922.0	Environmental pollution	1
+250																					35132110	0	1	0.0	1	W4210823128	True	gold	2022.0	2022.0	2022.0	1	unige:159095	0	2022	35132110.0	Scientific reports	1
+251																					35164988	0	1	0.0	1	W4211262649	True	hybrid	2022.0	2022.0	2022.0	1	unige:159139	0	2022	35164988.0	Vaccine	1
+252																					35165193	0	1	0.0	1	W4212893393	True	hybrid	2022.0	2022.0	2022.0	1	unige:159076	0	2022	35165193.0	Proceedings of the National Academy of Sciences of the United States of America	1
+253																					35166391	0	1	0.0	1	W4213095570	True	green	2022.0	2022.0	2022.0	1	unige:162405	0	2022	35166391.0	Psychophysiology	1
+254																					35188091	0	1	0.0	1	W4213359000	True	bronze	2022.0	2022.0	2022.0	1	unige:166129	0	2022	35188091.0	Cognition and emotion	1
+255																					35191570	0	1	0.0	1	W4213272049	True	hybrid	2022.0	2022.0	2022.0	1	unige:159147	0	2022	35191570.0	Advanced materials	1
+256																					35195140	0	1	0.0	1	W4212923190	True	hybrid	2022.0	2022.0	2022.0	1	unige:160292	0	2022	35195140.0	Dalton transactions	1
+257																					35204007	0	1	0.0	1	W4211121480	True	gold	2022.0	2022.0	2022.0	1	unige:165410	0	2022	35204007.0	Brain sciences	1
+258																					35212550	0	1	0.0	1	W4214684488	False	closed	2022.0	2022.0	2022.0	0	unige:159514	0	2022	35212550.0	The journal of physical chemistry letters	1
+259																					35224132	0	1	0.0	1	W4213310831	True	green	2022.0	2022.0	2022.0	1	unige:160134	0	2022	35224132.0	Structural dynamics	1
+260																					35228281	0	1	0.0	1	W4214616092	True	gold	2022.0	2022.0	2022.0	1	unige:159611	0	2022	35228281.0	BMJ open	1
+261																					35247784	0	1	0.0	1	W4213426061	True	hybrid	2022.0	2022.0	2022.0	1	unige:159612	0	2022	35247784.0	Social science & medicine	1
+262																					35252112	0	1	0.0	1	W4213292176	True	gold	2022.0	2022.0	2022.0	1	unige:163840	0	2022	35252112.0	Frontiers in chemistry	1
+263																					35270549	0	1	0.0	1	W4214566030	True	gold	2022.0	2022.0	2022.0	1	unige:165416	0	2022	35270549.0	International journal of environmental research and public health	1
+264																					35275033	0	1	0.0	1	W4220888611	True	hybrid	2022.0	2023.0	2023.0	1	unige:164731	0	2022	35275033.0	Psychology & health	1
+265																					35293387	0	1	0.0	1	W4221107751	True	gold	2022.0	2022.0	2022.0	1	unige:160808	0	2022	35293387.0	Scientific reports	1
+266																					35324183	0	1	0.0	1	W4221100877	True	green	2022.0	2022.0	2022.0	1	unige:160731	0	2022	35324183.0	Inorganic chemistry	1
+267																					35344921	0	1	0.0	1	W4221041419	True	hybrid	2022.0	2022.0	2022.0	1	unige:173974	0	2022	35344921.0	Journal of magnetic resonance	1
+268																					35357603	0	1	0.0	1	W4221079001	True	hybrid	2022.0	2023.0	2023.0	1	unige:161306	0	2022	35357603.0	Journal of autism and developmental disorders	1
+269																					35363480	0	1	0.0	1	W4220907482	True	green	2022.0	2022.0	2022.0	1	unige:160318	0	2022	35363480.0	Inorganic chemistry	1
+270																					35384246	0	1	0.0	1	W4226071905	True	green	2022.0	2022.0	2022.0	1	unige:163833	0	2022	35384246.0	Geobiology	1
+271																					35394901	0	1	0.0	1	W4223447636	True	hybrid	2022.0	2022.0	2022.0	1	unige:162448	0	2022	35394901.0	Proceedings of the National Academy of Sciences of the United States of America	1
+272																					35409897	0	1	0.0	1	W4223462848	True	gold	2022.0	2022.0	2022.0	1	unige:165404	0	2022	35409897.0	International journal of environmental research and public health	1
+273																					35416345	0	1	0.0	1	W4223481261	True	hybrid	2022.0	2022.0	2022.0	1	unige:161908	0	2022	35416345.0	Chemistry	1
+274																					35431440	0	1	0.0	1	W4221075068	True	green	2022.0	2022.0	2022.0	1	unige:160462	0	2022	35431440.0	Chemistry of materials	1
+275																					35445289	0	1	0.0	1	W4224243490	True	hybrid	2022.0	2022.0	2022.0	1	unige:161482	0	2022	35445289.0	Psychonomic bulletin & review	1
+276																					35448694	0	1	0.0	1	W4220799723	True	gold	2022.0	2022.0	2022.0	1	unige:160724	0	2022	35448694.0	Methods and protocols	1
+277																					35453813	0	1	0.0	1	W4224283696	True	gold	2022.0	2022.0	2022.0	1	unige:165431	0	2022	35453813.0	Biology	1
+278																					35459130	0	1	0.0	1	W4224285454	True	gold	2022.0	2022.0	2022.0	1	unige:166403	0	2022	35459130.0	BMC public health	1
+279																					35465930	0	1	0.0	1	W4226025336	False	closed	2022.0	2022.0	2022.0	0	unige:173946	0	2022	35465930.0	Methods in enzymology	1
+280																					35500682	0	1	0.0	1	W4225149333	False	closed	2022.0	2022.0	2022.0	0	unige:165418	0	2022	35500682.0	Journal of affective disorders	1
+281																					35508218	0	1	0.0	1	W4225259247	True	hybrid	2022.0	2022.0	2022.0	1	unige:162403	0	2022	35508218.0	International journal of psychophysiology	1
+282																					35509448	0	1	0.0	1	W4224104991	True	gold	2022.0	2022.0	2022.0	1	unige:175389	0	2022	35509448.0	Frontiers in neuroscience	1
+283																					35602707	0	1	0.0	1	W4229073125	True	gold	2022.0	2022.0	2022.0	1	unige:161314	0	2022	35602707.0	Frontiers in psychology	1
+284																					35613837	0	1	0.0	1	W4281568742	True	gold	2022.0	2022.0	2022.0	1	unige:161211	0	2022	35613837.0	BMJ global health	1
+285																					35615714	0	1	0.0	1	W4220735519	True	gold	2022.0	2022.0	2022.0	1	unige:161348	0	2022	35615714.0	JACS Au	1
+286																					35618767	0	1	0.0	1	W4281572622	True	green	2022.0	2022.0	2022.0	1	unige:161907	0	2022	35618767.0	Nature chemistry	1
+287																					35633636	0	1	0.0	1	W4280540407	True	gold	2022.0	2022.0	2022.0	1	unige:161445	0	2022	35633636.0	Swiss medical weekly	1
+288																					35636644	0	1	0.0	1	W4281669398	True	hybrid	2022.0	2022.0	2022.0	1	unige:161350	0	2022	35636644.0	Food and chemical toxicology	1
+289																					35640105	0	1	0.0	1	W4282936498	False	closed	2022.0	2022.0	2022.0	0	unige:167752	0	2022	35640105.0	Journal of cognitive neuroscience	1
+290																					35727678	0	1	0.0	1	W4283263451	True	green	2022.0	2022.0	2022.0	1	unige:161827	0	2022	35727678.0	The journal of physical chemistry. B	1
+291																					35751235	0	1	0.0	1	W4281937888	True	green	2022.0	2022.0	2022.0	1	unige:162030	0	2022	35751235.0	Journal of environmental management	1
+292																					35757572	0	1	0.0	1	W3168463413	True	hybrid	2021.0	2022.0	2022.0	1	unige:164611	0	2021	35757572.0	The review of international organizations	1
+293																					35760821	0	1	0.0	1	W4283576221	True	gold	2022.0	2022.0	2022.0	1	unige:175250	0	2022	35760821.0	Scientific reports	1
+294																					35772286	0	1	0.0	1	W4283119538	True	hybrid	2022.0	2022.0	2022.0	1	unige:162051	0	2022	35772286.0	Bioorganic & medicinal chemistry	1
+295																					35773858	0	1	0.0	1	W4283729865	True	hybrid	2022.0	2022.0	2022.0	1	unige:163030	0	2022	35773858.0	Studies in health technology and informatics	1
+296																					35775460	0	1	0.0	1	W4283755813	True	hybrid	2022.0	2022.0	2022.0	1	unige:162722	0	2022	35775460.0	Health policy and planning	1
+297																					35780629	0	1	0.0	1	W4283750984	False	closed	2022.0	2022.0	2022.0	0	unige:164067	0	2022	35780629.0	Marine pollution bulletin	1
+298																					35783448	0	1	0.0	1	W4282975164	True	gold	2022.0	2022.0	2022.0	1	unige:166346	0	2022	35783448.0	International journal of public health	1
+299																					35796630	0	1	0.0	1	W4284710276	True	hybrid	2022.0	2022.0	2022.0	1	unige:164195	0	2022	35796630.0	Chemistry	1
+300																					35805268	0	1	0.0	1	W4283389770	True	gold	2022.0	2022.0	2022.0	1	unige:165423	0	2022	35805268.0	International journal of environmental research and public health	1
+301																					35820089	0	1	0.0	1	W4285041074	False	closed	2022.0	2022.0	2022.0	0	unige:162810	0	2022	35820089.0	Inorganic chemistry	1
+302																					35848170	0	1	0.0	1	W4285726147	True	hybrid	2022.0	2023.0	2023.0	1	unige:164845	0	2022	35848170.0	Aging & mental health	1
+303																					35850331	0	1	0.0	1	W4285602370	True	hybrid	2022.0	2022.0	2022.0	1	unige:162584	0	2022	35850331.0	Science of the total environment	1
+304																					35859849	0	1	0.0	1	W4283813481	True	gold	2022.0	2022.0	2022.0	1	unige:166128	0	2022	35859849.0	Frontiers in psychology	1
+305																					35860374	0	1	0.0	1	W4221005874	True	hybrid	2022.0	2022.0	2022.0	1	unige:168082	0	2022	35860374.0	Journal of geophysical research. Solid earth	1
+306																					35860764	0	1	0.0	1	W4225412119	True	green	2022.0	2022.0	2022.0	1	unige:163986	0	2022	35860764.0	Journal of geophysical research. Planets	1
+307																					35864880	0	1	0.0	1	W4285005949	True	gold	2022.0	2022.0	2022.0	1	unige:162696	0	2022	35864880.0	Data in brief	1
+308																					35867517	0	1	0.0	1	W4286560779	True	green	2022.0	2022.0	2022.0	1	unige:162451	0	2022	35867517.0	Nano letters	1
+309																					35875046	0	1	0.0	1	W4286630894	True	gold	2022.0	2022.0	2022.0	1	unige:169361	0	2022	35875046.0	Frontiers in public health	1
+310																					35878054	0	1	0.0	1	W4287577989	True	hybrid	2022.0	2022.0	2022.0	1	unige:170564	0	2022	35878054.0	Proceedings of the National Academy of Sciences of the United States of America	1
+311																					35893320	0	1	0.0	1	W4284891790	True	gold	2022.0	2022.0	2022.0	1	unige:165426	0	2022	35893320.0	Geriatrics	1
+312																					35898613	0	1	0.0	1	W4285098218	True	gold	2022.0	2022.0	2022.0	1	unige:166709	0	2022	35898613.0	MethodsX	1
+313																					35900628	0	1	0.0	1	W4288439551	False	closed	2022.0	2022.0	2022.0	0	unige:162645	0	2022	35900628.0	Environmental science and pollution research international	1
+314																					35902462	0	1	0.0	1	W4288474983	False	closed	2022.0	2022.0	2022.0	0	unige:170309	0	2022	35902462.0	The Emotional Cerebellum	1
+315																					35902469	0	1	0.0	1	W4288474565	False	closed	2022.0	2022.0	2022.0	0	unige:170308	0	2022	35902469.0	The Emotional Cerebellum	1
+316																					35906481	0	1	0.0	1	W4288707170	True	gold	2022.0	2022.0	2022.0	1	unige:162449	0	2022	35906481.0	Scientific reports	1
+317																					35923327	0	1	0.0	1	W4285220643	True	hybrid	2022.0	2022.0	2022.0	1	unige:163473	0	2022	35923327.0	Environmental science. Nano	1
+318																					35949529	0	1	1.0	1	W4289767425	True	green	2022.0	2022.0	2022.0	1	unige:163033	0	2022	35949529.0	Ecology and evolution	1
+319																					35960589	0	1	0.0	1	W4288037793	True	hybrid	2022.0	2022.0	2022.0	1	unige:166540	0	2022	35960589.0	Physical review letters	1
+320																					35961970	0	1	0.0	1	W4290878972	True	gold	2022.0	2022.0	2022.0	1	unige:166705	0	2022	35961970.0	Nature communications	1
+321																					35967622	0	1	0.0	1	W4288050750	True	gold	2022.0	2022.0	2022.0	1	unige:165491	0	2022	35967622.0	Frontiers in psychology	1
+322																					35968249	0	1	0.0	1	W4290700040	True	hybrid	2022.0	2022.0	2022.0	1	unige:171366	0	2022	35968249.0	Prospects	1
+323																					35976867	0	1	0.0	1	W4292117422	True	gold	2022.0	2022.0	2022.0	1	unige:162839	0	2022	35976867.0	PloS one	1
+324																					36001638	0	1	0.0	1	W4293194563	False	closed	2022.0	2022.0	2022.0	0	unige:163464	0	2022	36001638.0	Analytical chemistry	1
+325																					36008406	0	1	0.0	1	W4293090373	True	gold	2022.0	2022.0	2022.0	1	unige:166998	0	2022	36008406.0	Nature communications	1
+326																					36013095	0	1	0.0	1	W4292247771	True	gold	2022.0	2022.0	2022.0	1	unige:165402	0	2022	36013095.0	Journal of clinical medicine	1
+327																					36016469	0	1	0.0	1	W4293224776	False	closed	2022.0	2023.0	2023.0	0	unige:163001	0	2022	36016469.0	Scandinavian journal of public health	1
+328																					36030959	0	1	0.0	1	W4293375753	True	hybrid	2022.0	2022.0	2022.0	1	unige:163041	0	2022	36030959.0	Environmental pollution	1
+329																					36037947	0	1	0.0	1	W4293777849	True	hybrid	2022.0	2022.0	2022.0	1	unige:163349	0	2022	36037947.0	Chemosphere	1
+330																					36038622	0	1	0.0	1	W4293503530	True	gold	2022.0	2022.0	2022.0	1	unige:164846	0	2022	36038622.0	Scientific reports	1
+331																					36046637	0	1	0.0	1	W4293221131	True	gold	2022.0	2022.0	2022.0	1	unige:163106	0	2022	36046637.0	Digital health	1
+332																					36052201	0	1	0.0	1	W4200307203	True	green	2021.0	2021.0	2021.0	1	unige:165433	0	2022	36052201.0	European journal of ageing	1
+333																					36058612	0	1	0.0	1	W4293168230	True	hybrid	2022.0	2022.0	2022.0	1	unige:163710	0	2022	36058612.0	Social science research	1
+334																					36073767	0	1	0.0	1	W4294953493	True	hybrid	2022.0	2023.0	2023.0	1	unige:167649	0	2022	36073767.0	Psychophysiology	1
+335																					36078221	0	1	0.0	1	W4293030246	True	gold	2022.0	2022.0	2022.0	1	unige:165403	0	2022	36078221.0	International journal of environmental research and public health	1
+336																					36090965	0	1	0.0	1	W4288777863	True	hybrid	2022.0	2022.0	2022.0	1	unige:166711	0	2022	36090965.0	Journal of materials chemistry. C	1
+337																					36093215	0	1	0.0	1	W4285232864	True	hybrid	2022.0	2022.0	2022.0	1	unige:163470	0	2022	36093215.0	Environmental science. Nano	1
+338																					36094666	0	1	0.0	1	W4295290178	True	hybrid	2022.0	2023.0	2023.0	1	unige:167732	0	2022	36094666.0	Psychological research	1
+339																					36097494	0	1	0.0	1	W4293565753	True	gold	2022.0	2022.0	2022.0	1	unige:163476	0	2022	36097494.0	Heliyon	1
+340																					36207666	0	1	0.0	1	W4303488454	True	hybrid	2022.0	2024.0	2024.0	1	unige:167751	0	2022	36207666.0	Attention, perception & psychophysics	1
+341																					36210286	0	1	0.0	1	W4302362499	False	closed	2022.0	2022.0	2022.0	0	unige:167421	0	2022	36210286.0	Trends in ecology & evolution	1
+342																					36218085	0	1	0.0	1	W4304096748	True	hybrid	2022.0	2022.0	2022.0	1	unige:164878	0	2022	36218085.0	Dalton transactions	1
+343																					36220827	0	1	0.0	1	W4304187543	True	gold	2022.0	2022.0	2022.0	1	unige:164844	0	2022	36220827.0	Scientific reports	1
+344																					36223470	0	1	0.0	1	W4304820621	True	gold	2022.0	2022.0	2022.0	1	unige:173942	0	2022	36223470.0	Science advances	1
+345																					36229474	0	1	0.0	1	W4304890666	True	gold	2022.0	2022.0	2022.0	1	unige:164676	0	2022	36229474.0	Scientific reports	1
+346																					36231881	0	1	0.0	1	W4303696708	True	gold	2022.0	2022.0	2022.0	1	unige:165298	0	2022	36231881.0	International journal of environmental research and public health	1
+347																					36231882	0	1	0.0	1	W4303696464	True	gold	2022.0	2022.0	2022.0	1	unige:165430	0	2022	36231882.0	International journal of environmental research and public health	1
+348																					36239437	0	1	0.0	1	W4306174701	True	hybrid	2022.0	2023.0	2023.0	1	unige:174009	0	2022	36239437.0	Chemistry	1
+349																					36263805	0	1	0.0	1	W4306912577	True	hybrid	2022.0	2022.0	2022.0	1	unige:165071	0	2022	36263805.0	PCCP. Physical chemistry chemical physics	1
+350																					36271928	0	1	1.0	1	W4307090171	True	hybrid	2022.0	2023.0	2023.0	1	unige:164682	0	2022	36271928.0	European archives of psychiatry and clinical neuroscience	1
+351																					36272154	0	1	0.0	1	W4307115544	True	hybrid	2022.0	2022.0	2022.0	1	unige:165965	0	2022	36272154.0	Angewandte Chemie	1
+352																					36277872	0	1	0.0	1	W4306377749	True	hybrid	2022.0	2022.0	2022.0	1	unige:168228	0	2022	36277872.0	Environmental science & policy	1
+353																					36307421	0	1	0.0	1	W4307838484	True	gold	2022.0	2022.0	2022.0	1	unige:164516	0	2022	36307421.0	Nature communications	1
+354																					36340699	0	1	1.0	1	W4308348044	True	gold	2022.0	2022.0	2022.0	1	unige:165992	0	2022	36340699.0	Contemporary clinical trials communications	1
+355																					36349513	0	1	0.0	1	W4308635303	True	hybrid	2022.0	2023.0	2023.0	1	unige:165885	0	2022	36349513.0	Conservation biology	1
+356																					36360598	0	1	0.0	1	W4307270922	True	gold	2022.0	2022.0	2022.0	1	unige:165428	0	2022	36360598.0	International journal of environmental research and public health	1
+357																					36361009	0	1	0.0	1	W4307939337	True	gold	2022.0	2022.0	2022.0	1	unige:165427	0	2022	36361009.0	International journal of environmental research and public health	1
+358																					36397821	0	1	0.0	1	W4281794940	True	hybrid	2022.0	2022.0	2022.0	1	unige:166537	0	2022	36397821.0	The European physical journal. D, Atomic, molecular and optical physics	1
+359																					36399553	0	1	0.0	1	W4309306078	True	green	2022.0	2022.0	2022.0	1	unige:165218	0	2022	36399553.0	Science advances	1
+360																					36399736	0	1	0.0	1	W4308207787	True	green	2022.0	2022.0	2022.0	1	unige:165392	0	2022	36399736.0	Physical review letters	1
+361																					36400736	0	1	0.0	1	W4309561657	True	gold	2022.0	2022.0	2022.0	1	unige:165440	0	2022	36400736.0	BMJ Open	1
+362																					36450857	0	1	0.0	1	W4310644693	True	gold	2022.0	2022.0	2022.0	1	unige:165613	0	2022	36450857.0	Scientific reports	1
+363																					36453100	0	1	0.0	1	W4310566395	True	hybrid	2022.0	2022.0	2022.0	1	unige:165882	0	2022	36453100.0	PCCP. Physical chemistry chemical physics	1
+364																					36456608	0	1	0.0	1	W4310496582	True	gold	2022.0	2022.0	2022.0	1	unige:165612	0	2022	36456608.0	Scientific reports	1
+365																					36458812	0	1	0.0	1	W4310595911	False	closed	2022.0	2023.0	2023.0	0	unige:168322	0	2022	36458812.0	Angewandte Chemie	1
+366																					36522382	0	1	0.0	1	W4311766812	True	gold	2022.0	2022.0	2022.0	1	unige:166710	0	2022	36522382.0	Scientific reports	1
+367																					36541123	0	1	0.0	1	W4312067318	False	closed	2022.0	2023.0	2023.0	0	unige:171166	0	2022	36541123.0	Psychophysiology	1
+368																					36546506	0	1	0.0	1	W4312093783	True	green	2022.0	2023.0	2023.0	1	unige:166914	0	2022	36546506.0	Psychophysiology	1
+369																					36570078	0	1	0.0	1	W4311903919	False	closed	2022.0	2022.0	2022.0	0	unige:165964	0	2022	36570078.0	ACS Catalysis	1
+370																					36573075	0	1	0.0	1	W4293464808	True	gold	2022.0	2022.0	2022.0	1	unige:173464	0	2022	36573075.0	ACS measurement science au	1
+371																					36575489	0	1	0.0	1	W4313248885	True	gold	2022.0	2022.0	2022.0	1	unige:167330	0	2022	36575489.0	Reproductive health	1
+372																					36608188	0	1	0.0	1	W4312107088	True	green	2022.0	2022.0	2022.0	1	unige:166536	0	2022	36608188.0	Physical Review Letters	1
